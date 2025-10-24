@@ -1,0 +1,18 @@
+{
+  "name": "fintual-task",
+  "version": "1.0.0",
+  "description": "Portfolio management and rebalancing system for stocks",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "tsx --test index.test.ts",
+    "example": "tsx example.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0"
+}
