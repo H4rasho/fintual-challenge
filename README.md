@@ -16,7 +16,9 @@ Stock portfolio management and rebalancing system that helps determine which sto
 
 ## 🤖 LLM Usage in Development
 
-I only use LLM for testing, examples and extra documentation, I solve this problem by myself.
+I only use LLM for testing, examples and extra documentation you can check my chat with cursor in this file cursor_generar_test_para_la_clase_portf.md.
+I solve this problem by myself, This is my first analysis.
+<img width="1555" height="642" alt="image" src="https://github.com/user-attachments/assets/952b81aa-83bd-4737-9e4a-540d09b738e7" />
 
 
 **Implemented Solution:**
