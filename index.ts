@@ -114,7 +114,7 @@ export class Portfolio
       
       // Key logic: If current price > target value, the stock is overrepresented → SELL
       //            If current price < target value, the stock is underrepresented → BUY
-      const shouldSell = stock.currentPrice() > targetValue
+      const shouldSell = stock.currentPrice() * stock.shares > targetValue
       shoudBeSellStock.set(stock.symbol, shouldSell)
     }
     
